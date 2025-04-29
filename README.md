@@ -214,6 +214,7 @@ From January 2024 transaction logs, 8,213 fraud cases were found, comprising 0.1
 - **Tools Used**:  
   - **Python (Jupyter Notebook)** for cleaning, engineering, visualization  
   - **Pandas**, **Seaborn**, **Matplotlib**, **Scikit-learn** for modeling  
+[code](https://github.com/amr-salah92/Fraudulent-Transaction-Pattern-Detection/blob/main/fraud.ipynb)
 
 ---
 
