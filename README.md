@@ -48,12 +48,6 @@ The goal is twofold:
 - **Category 3**: Fraud Detection Trends  
 - **Category 4**: Model Performance  
 
-**SQL query links and Tableau dashboard**:  
-- Data cleaning SQL scripts: [link]  
-- Business logic SQL queries: [link]  
-- Interactive Tableau dashboard: [link]  
-
----
 
 ## Data Structure & Initial Checks
 
