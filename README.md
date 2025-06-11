@@ -98,7 +98,7 @@ The company’s working dataset includes 6,362,620 records and is structured as 
 | old_balance         | FLOAT        | Balance before transaction                   |
 | new_balance         | FLOAT        | Balance after transaction                    |
 
-**[Entity Relationship Diagram here]**
+**[Entity Relationship Diagram]**
 ![Screenshot_29-4-2025_131244_dbdiagram io](https://github.com/user-attachments/assets/b1a8843d-406c-4a58-8dd8-b0e15a864440)
 
 
@@ -115,7 +115,7 @@ From January 2024 transaction logs, 8,213 fraud cases were found, comprising 0.1
 > 2. Balance gaps and party roles are strong fraud indicators.  
 > 3. A subset of destination accounts repeatedly appear in fraud cases.
 
-**[Insert Visualization: Fraud counts by transaction type bar chart]**![64da6613-5426-4d89-a893-bf7e4984b5a1](https://github.com/user-attachments/assets/a2216034-bb3d-4a9f-aff6-ab9b32cd61f8)
+**[Visualization: Fraud counts by transaction type bar chart]**![64da6613-5426-4d89-a893-bf7e4984b5a1](https://github.com/user-attachments/assets/a2216034-bb3d-4a9f-aff6-ab9b32cd61f8)
 
 
 ---
@@ -129,7 +129,7 @@ From January 2024 transaction logs, 8,213 fraud cases were found, comprising 0.1
 - **Insight 3:** `PAYMENT`, `DEBIT`, `CASH_IN` types had zero fraud  
 - **Insight 4:** momst of fraud value comes from transactions > $100,000  
 
-**[Insert Visualization: Fraud by Type and Step Heatmap]**![f4d030c0-81a5-46b0-a20e-07713c1aea0e](https://github.com/user-attachments/assets/3b04d760-dc7f-4bc2-90d4-b8c8d003fb50)
+**[Visualization: Fraud by Type and Step Heatmap]**![f4d030c0-81a5-46b0-a20e-07713c1aea0e](https://github.com/user-attachments/assets/3b04d760-dc7f-4bc2-90d4-b8c8d003fb50)
 
 
 ---
@@ -141,7 +141,7 @@ From January 2024 transaction logs, 8,213 fraud cases were found, comprising 0.1
 - **Insight 3:** Destination accounts show mirrored balance increases  
 - **Insight 4:** Role classification (customer/merchant) segments risk  
 
-**[Insert Visualization: Balance Gap Distribution - Fraud vs Non-Fraud]**
+**[Visualization: Balance Gap Distribution - Fraud vs Non-Fraud]**
 
 ---
 
@@ -152,7 +152,7 @@ From January 2024 transaction logs, 8,213 fraud cases were found, comprising 0.1
 - **Insight 3:** isFlaggedFraud = 1 appears in <0.0002% of transactions 
 
 
-**[Insert Visualization: Receiver Frequency Heatmap]**
+**[Visualization: Receiver Frequency Heatmap]**
 
 ---
 
